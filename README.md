@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Ali Usman. 
-- 👀 I am a social media influencer. I am expert in Digital marketing.
-- 🌱 I’m currently Working in Digital Marketing and also learning  Development.
+👨‍💻 Software Engineer | Flutter Enthusiast | Digital Marketing Expert
 
-
-<!---
-mianaliusman786/mianaliusman786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bachelor's degree in Software Engineering from the University of Gujrat
+Specializes in mobile app development using Dart and Flutter
+Expertise in backend integration using Firebase
+Developed projects like LawyersKonnect and a Gym Management System
+Demonstrates skills in creating user-centric applications
+Experienced in leading cross-functional teams
+Coordinated events and provided digital marketing solutions
+Passionate about exploring new technologies and continuous learning
+Enjoys playing chess and engaging in problem-solving competitions
