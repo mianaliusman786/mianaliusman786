@@ -1,15 +1,33 @@
-🌟 Web Developer for React JS, Bubble.io & WordPress 🌟
+🌟 Ali Usman – Digital Marketing & Business Development Specialist | AI & Analytics Enthusiast 🌟
 
-I am a dedicated Software Engineer specializing in web development for platforms like React JS, Bubble.io, and WordPress. My focus is on delivering high-quality websites and applications with exceptional user experiences.
+I am a Software Engineer with 5 years of experience in Business Development, Social Media Management, and SEO, combining technical expertise with digital marketing skills to drive business growth, improve online visibility, and generate high-quality leads.
 
-💻 High-Quality Web Development
-With expertise in React JS, Bubble.io, and WordPress, I design and develop websites that are functional, responsive, and user-friendly. My aim is to craft unique solutions tailored to the specific needs of each platform, ensuring performance and reliability.
+💻 Advanced Digital Marketing & Campaign Management
 
-📈 Strategic Digital Marketing
-I bring a strategic approach to digital marketing, leveraging my skills to enhance online visibility. From SEO-focused content on WordPress to custom web applications on Bubble.io, I ensure that your digital presence drives traffic and engagement.
+Designed and executed campaigns using Meta Ads, Google Ads, Email Marketing, and Social Media platforms.
 
-🚀 Passionate IT Enthusiast
-My enthusiasm for technology keeps me at the forefront of web development trends. Whether working on a dynamic React JS interface, a no-code Bubble.io solution, or a versatile WordPress website, I combine innovation with efficiency.
+Implemented server-side tracking with Conversion API & Pixel, ensuring accurate data collection and optimized targeting.
 
-🏆 Commitment to Excellence
-Every project I undertake reflects my commitment to delivering top-notch solutions. From coding responsive layouts to implementing digital marketing campaigns, I strive to exceed expectations and drive measurable success.
+Managed CRM and automation workflows using HubSpot, enhancing lead management and campaign efficiency.
+
+📈 AI & Data-Driven Insights
+
+Leveraged Google Analytics, GTM, and AI-assisted analysis to track performance, conversions, and audience behavior.
+
+Optimized campaigns with actionable insights, improving CTR, ROAS, and lead generation.
+
+🚀 Entrepreneurship & Leadership
+
+Founded and led LawyersKonnect, connecting citizens with lawyers through a user-friendly digital platform.
+
+Oversaw NICs Gujrat projects, managing content, team coordination, and strategic execution.
+
+🏆 Tools & Skills
+
+Marketing: Social Media Optimization, Meta Ads, Google Ads, SEM Strategies, Conversion Rate Optimization (CRO), Content Creation
+
+Software: HubSpot, GTM, Figma, Canva, Slack, Excel, Mailchimp, Streak, Meta Business Suite, Google Analytics
+
+Soft Skills: Planning, Teamwork, Creative Problem-Solving, Analytical Thinking, Presentation, Active Listening
+
+🎯 Goal: To combine AI insights, advanced tracking, and digital marketing expertise to create impactful campaigns, maximize conversions, and deliver measurable business results.
